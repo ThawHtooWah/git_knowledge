@@ -1,6 +1,7 @@
 # How to host a Website on Github
 
-- Need to be public repo for sharing 
+- Need to be public repo for sharing with other users.
+- Reference - [YouTube](https://www.youtube.com/watch?v=8hrJ4oN1u_8)
 
 ### Steps
 1. Go to repository **Settings**  

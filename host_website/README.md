@@ -9,7 +9,7 @@
 3. **Source** change to **master branch** or any branch website has been developed.
 4. And **Save**.
 5. Published website link will appear at above   
-   **``` Your site is published at https://thawhtoowah.github.io/github_site/test.html ```**    
+   **``` Your site is published at https://thawhtoowah.github.io/git_knowledge/host_website/test.html```**    
    
    or use the following template  
    **``` https://[username].github.io/[repo_name]/something.html ```**
